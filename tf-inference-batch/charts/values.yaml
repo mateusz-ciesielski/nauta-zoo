@@ -9,10 +9,10 @@ workersCount: 1
 resources:
   requests:
     cpu: 19
-    memory: 94.7Gi
+    memory: 93604421089
   limits:
     cpu: 19
-    memory: 94.7Gi
+    memory: 93604421089
 
 # Shorthands for setting both limits and requests of batch inference instance's cpu/memory
 cpu: null

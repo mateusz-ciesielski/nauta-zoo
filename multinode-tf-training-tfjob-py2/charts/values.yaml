@@ -6,10 +6,10 @@
 worker_resources:
   requests:
     cpu: 38
-    memory: 189.4Gi
+    memory: 187208842179
   limits:
     cpu: 38
-    memory: 189.4Gi
+    memory: 187208842179
 
 # Shorthands for setting both limits and requests of workers' cpu/memory
 worker_cpu: null
@@ -19,10 +19,10 @@ worker_memory: null
 ps_resources:
   requests:
     cpu: 38
-    memory: 189.4Gi
+    memory: 187208842179
   limits:
     cpu: 38
-    memory: 189.4Gi
+    memory: 187208842179
 
 # Shorthands for setting both limits and requests of parameter servers' cpu/memory
 ps_cpu: null
