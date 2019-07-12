@@ -10,3 +10,7 @@ The user materials are licensed under [CC-BY-ND 4.0](https://creativecommons.org
 # Contact
 
 Submit Github issue to ask a question, submit a request or report a bug.
+
+# Development
+
+Please see instructions in hooks/README.md regarding GitHub pages repository integration.
